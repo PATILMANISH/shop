@@ -1,5 +1,6 @@
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
+//   BrowserRouter as Router, Dev Env
   Routes,
   Route,
   Navigate,
